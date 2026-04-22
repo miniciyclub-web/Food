@@ -1,0 +1,26 @@
+<!Doctype html>
+<html>
+ <head>
+  <title> Crispy Crisp </title>
+  <style>
+   .snack {background-color:#f9ff02;}
+  </style>
+ </head>
+<body>
+ <img src="oishilogo.jpeg" height="512" width="1252">
+ <h1 style = "color: #841401"> Oishi's Must Try Chip </h1>
+
+ <h3 class="snack"> Chocolate Pillows </h3>
+ <p> Crunchy crackers bursting with yummy Choco-filled square pillow crackers that is a versatile snack for all occasions. </p>
+ <img src = "chocopillow.jpeg" height="500" width="500">
+
+ <h3 class="snack"> Klrel </h3>
+ <p> Enjoy a delicious, light and crunchyseafood flavored snack with Oishi Klrel flakes shrimp flavored snack. </p>
+  <img src = "kirei.jpeg" height ="500" width = "500">
+
+  <h3 class="snack"> Potato Fried </h3>
+ <p> Tomato Ketchup Flavour is a best selling Flipino snack.Baked and not fried potato snack.It's definitely a must try snack. </p>
+  <img src = "tomatoepotato.jpeg" height ="500" width = "500">
+
+</body>
+</html>
